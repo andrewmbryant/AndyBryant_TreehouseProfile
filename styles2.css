@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/newyork.jpg') no-repeat top center ;
+  background: url('images/roble_banner_Leaves.png') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -77,7 +77,7 @@ header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
 .tag {
-  background-color: #efefef;
+  background-color: #fff;
   color: black;
   padding: 10px;
   border-radius: 5px;
@@ -105,14 +105,6 @@ header .profile-image:hover {
 ul.skills {
   padding: 0;
   text-align: center;
-}
-
-.active {
-  border-color: white;
-    border-left-color: black;
-    border-top-color: black;
-    color: #f9f9f9;
-    background-color: #000;
 }
 
 .skills li {
@@ -178,6 +170,14 @@ a.social:hover {
 }
 .clearfix {
   clear: both;
+}
+
+.active {
+  border-color: white;
+    border-left-color: black;
+    border-top-color: black;
+    color: #f9f9f9;
+    background-color: #000;
 }
 
 /* Styles for larger screens */
